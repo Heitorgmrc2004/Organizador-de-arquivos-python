@@ -1,0 +1,15 @@
+texto,categoria
+"fatura cartao de credito vencimento valor total pagar banco pix",financeiro
+"comprovante de transferencia bancaria extrato saldo conta corrente",financeiro
+"nota fiscal eletronica danfe imposto valor produtos cnpj",financeiro
+"boleto bancario linha digitavel beneficiario pagador agencia",financeiro
+"recibo pagamento mensalidade taxa cobranca",financeiro
+"algoritmos estrutura de dados ponteiros linguagem c python exercicio faculdade",estudo
+"apostila calculo diferencial integral engenharia software banco de dados sql",estudo
+"visual studio code ide compiler debugger python interpreter git",estudo
+"mingw gcc clang cmake node npm docker sdk jdk",estudo
+"lista de exercicios prova simulado resumo aula arquitetura computadores",estudo
+"steam game launcher unity engine unreal directx setup installer",outros
+"driver placa de video audio utility setup instalador navegador chrome",outros
+"epic games riot vanguard battle net discord spotify setup",outros
+"wallpaper foto imagem captura de tela",outros
